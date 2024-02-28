@@ -24,4 +24,4 @@ This project is a challenge submission for TicketMaster, showcasing a modern And
 ## Setup Instructions
 1. **Clone the Repository**:
 ```bash
-git clone https://github.com/ivancrizza/TicketMasterChallange
+git clone https://github.com/ivancrizza/TicketMasterChallenge
